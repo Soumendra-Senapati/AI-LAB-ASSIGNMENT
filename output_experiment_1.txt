@@ -1,0 +1,2 @@
+Graph: {'A': ['B', 'C'], 'B': ['D', 'E'], 'C': ['F']}
+BFS Traversal: A B C D E F
