@@ -1,0 +1,2 @@
+Path found: ['A', 'B', 'D', 'G']
+Total cost: 6
