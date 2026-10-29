@@ -1,0 +1,2 @@
+Best position = 0.0
+Best value = 10.0
